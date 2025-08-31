@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Vidaloka&family=Asap:wght@400;600&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Asap', sans-serif;
+    background-color: #f4f5f7;
+    color: #2c2c2c;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    padding: 20px;
+}
+
+.container {
+    background: linear-gradient(145deg, #a67bcf, #7d5ba6);
+    padding: 30px;
+    border-radius: 20px;
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.2);
+    width: 100%;
+    max-width: 600px;
+    text-align: center;
+    color: #fff;
+}
+
+h1 {
+    font-family: 'Vidaloka', serif;
+    font-size: 2rem;
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+    margin: 15px 0 5px;
+    font-weight: 600;
+}
+
+input[type="text"] {
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    width: 80%;
+    margin-bottom: 15px;
+    font-size: 1rem;
+    outline: none;
+}
+
+button {
+    padding: 10px;
+    border-radius: 10px;
+    border: none;
+    width: 80%;
+    margin-bottom: 15px;
+    font-size: 1rem;
+}
+
+select,
+input[type="text"] {
+    outline: none;
+}
+
+button {
+    background-color: #fff;
+    color: #7d5ba6;
+    font-weight: 600;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+button:hover {
+    background-color: #e0d3f0;
+}
+
+.hero-image {
+    margin: 20px 0;
+    font-weight: bold;
+}
+
+.result {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    padding: 15px;
+    border-radius: 10px;
+    background-color: rgba(255, 255, 255, 0.2);
+}
+
+footer {
+    margin-top: 30px;
+    font-size: 0.8rem;
+    color: rgba(255, 255, 255, 0.7);
+}
