@@ -33,10 +33,10 @@ Uma prévia das principais funcionalidades do **Classificador de Herói**:
 
 O projeto está disponível para visualização na **Vercel**. Clique no link abaixo para acessar:
 
-<a href="https://classificador-de-herói-nine.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
+<a href="https://classificador-de-heroi-nine.vercel.app/" target="_blank">![Static Badge](https://img.shields.io/badge/Vercel-project?style=for-the-badge&color=A91079)</a>
 
 **🦸 Tela Inicial**
 
-Tela Inicial com espaço para registrar o nome do herói, valor relacionado ao personagem e tornar possível verificar o nível.
+Tela inicial com espaço para registrar o nome do herói, valor relacionado ao personagem e tornar possível verificar o nível.
 
 <img src="/heroi-inicio.png" alt="Tela inicial do Classificador de Herói" width="600"/>
